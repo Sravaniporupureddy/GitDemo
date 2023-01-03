@@ -23,6 +23,10 @@ public class day4 {
 	{
 		//Appium
 		System.out.println("MobileloginHome");
+		System.out.println("MobileloginHome 2");
+		System.out.println("MobileloginHome 3");
+
+
 	}
 	
 	@Test
